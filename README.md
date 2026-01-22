@@ -39,6 +39,11 @@ cohortes.
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
+## 📊 Visualizaciones clave
+<img width="953" height="694" alt="image" src="https://github.com/user-attachments/assets/9d3d3a3a-e393-42ff-976d-aa0b1262da9f" />
+
+<img width="999" height="539" alt="image" src="https://github.com/user-attachments/assets/fea2ea12-9588-40a4-ba2d-dc1d446da4ea" />
+
 ## 📈 Resultados
 El análisis de las métricas clave de negocio — Retorno sobre la Inversión en
 Marketing (ROMI), Costo de Adquisición de Clientes (CAC), Tasa de Retención y
