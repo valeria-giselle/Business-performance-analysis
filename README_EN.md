@@ -16,7 +16,7 @@ well as user behavior over time through cohort analysis.
 - Support data-driven strategic decision-making
 
 ## 📂 Project Structure
-- `data/` → Marketing and sales data
+- `datasets/` → Marketing and sales data
 - `notebooks/` → Business and cohort analysis
 - `README.md` → Project description in Spanish
 - `README_EN.md` → Project description in English
