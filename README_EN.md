@@ -18,7 +18,6 @@ well as user behavior over time through cohort analysis.
 ## 📂 Project Structure
 - `data/` → Marketing and sales data
 - `notebooks/` → Business and cohort analysis
-- `images/` → Key visualizations
 - `README.md` → Project description in Spanish
 - `README_EN.md` → Project description in English
 - `requirements.txt` → Project dependencies
@@ -37,6 +36,11 @@ well as user behavior over time through cohort analysis.
 - NumPy
 - Matplotlib / Seaborn
 - Jupyter Notebook
+
+## 📊 Key visualizations
+<img width="953" height="694" alt="image" src="https://github.com/user-attachments/assets/9d3d3a3a-e393-42ff-976d-aa0b1262da9f" />
+
+<img width="999" height="539" alt="image" src="https://github.com/user-attachments/assets/fea2ea12-9588-40a4-ba2d-dc1d446da4ea" />
 
 ## 📈 Results
 
