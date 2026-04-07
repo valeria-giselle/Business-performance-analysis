@@ -1,3 +1,6 @@
+🌐 **Lenguaje:**  
+[English version](README_EN.md)
+
 # 📊 Análisis de la Empresa Showz
 
 ## 📌 Descripción
